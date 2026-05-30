@@ -1,8 +1,8 @@
 # CHEN Ming (Eric) Academic CV
 
-This repository contains a GitHub Pages CV site built from the source Word document.
+This repository contains a simple GitHub Pages CV site built from the source Word document.
 
-The main CV content is now in `index.md`, so routine edits can be made in Markdown. The shared page frame is in `_layouts/default.html`, visual styling is in `styles.css`, and images are stored in `assets/`.
+The site uses GitHub Pages' default Jekyll support, so there is no Hugo setup. The main CV content is in `index.md`, the shared page frame is in `_layouts/default.html`, visual styling is in `styles.css`, and images are stored in `assets/`.
 
 ## Publish on GitHub Pages
 
@@ -14,4 +14,4 @@ The main CV content is now in `index.md`, so routine edits can be made in Markdo
 
 ## Edit Content
 
-Most CV content is in `index.md`. Visual styling is in `styles.css`.
+Most CV content is in `index.md`. Edit the front matter at the top for name, profile links, photo path, and sidebar details. Edit the Markdown below it for publications, presentations, funding, and service.

@@ -11,29 +11,24 @@
     <link rel="stylesheet" href="{{ '/styles.css' | relative_url }}">
   </head>
   <body>
-    <header class="site-header">
-      <nav class="nav" aria-label="Primary navigation">
-        <a class="brand" href="{{ '/' | relative_url }}">CHEN Ming (Eric)</a>
-        <div class="nav-links">
-          <a href="#publications">Publications</a>
-          <a href="#funding">Funding</a>
-          <a href="#service">Service</a>
-          <a href="mailto:Ming.Chen@bristol.ac.uk">Email</a>
-        </div>
-      </nav>
-    </header>
+    <main class="page">
+      <aside class="profile">
+        <img class="profile-photo" src="{{ page.photo | relative_url }}" alt="Portrait of {{ page.name }}">
+        <h1>{{ page.name }}</h1>
+        <p class="role">{{ page.role }}</p>
+        <p>{{ page.affiliation }}</p>
 
-    <main id="top">
-      {{ content }}
+        <nav class="profile-links" aria-label="Profile links">
+          <a href="mailto:{{ page.email }}">Email</a>
+          <a href="{{ page.google_scholar }}">Google Scholar</a>
+          <a href="{{ page.orcid }}">ORCID</a>
+          <a href="{{ page.researchgate }}">ResearchGate</a>
+        </nav>
+      </aside>
+
+      <article class="content">
+        {{ content }}
+      </article>
     </main>
-
-    <footer class="footer">
-      <p>CHEN Ming (Eric) - School of Education, University of Bristol</p>
-      <div>
-        <a href="https://ericmingchen.github.io/">Homepage</a>
-        <a href="https://www.researchgate.net/profile/Ming-Chen-174/research?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjoiaG9tZSJ9fQ">ResearchGate</a>
-        <a href="mailto:Ming.Chen@bristol.ac.uk">Ming.Chen@bristol.ac.uk</a>
-      </div>
-    </footer>
   </body>
 </html>
