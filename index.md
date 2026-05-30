@@ -17,21 +17,18 @@ summary: "I am a PhD researcher at the School of Education, University of Bristo
 
 **PhD in Education**, [University of Bristol](https://www.bristol.ac.uk/), United Kingdom  
 2023-present  
-Thesis: Investigating the impact of virtual reality digital content creation on engagement and vocabulary development in an EFL setting. Fully funded by the China Scholarship Council-University of Bristol Joint PhD Scholarship.
+
 
 **MA in Digital Technologies, Communication and Education**, [The University of Manchester](https://www.manchester.ac.uk/), United Kingdom  
 2020-2022  
-Dissertation research examined students' online learning experiences during the COVID-19 pandemic.
-
-
 
 ## News
 
-- I was awarded...
+- Analysing Research Data...
 
 ## Awards
 
-- Best Poster, [BAAL Vocabulary SIG](https://vocabularysig.wordpress.com/) 2026, Bangor
+- Best Poster presentation, [BAAL Vocabulary SIG 2026](https://baalvocabsig.wordpress.com/conferences/annual-conference-of-the-baal-vocab-studies-sig-2026), Bangor
 
 ## Publications and Manuscripts {#publications}
 
@@ -69,8 +66,6 @@ For the most current publication record, please visit my [Google Scholar profile
 
 ## Academic Service and Leadership {#service}
 
-
-
 ### Professional Engagement
 
 - Social Media Communicator, [AERA Constructivist Theory, Research and Practice SIG](https://www.aera.net/SIG025/Constructivist-Theory-Research-and-Practice)
@@ -83,16 +78,12 @@ For the most current publication record, please visit my [Google Scholar profile
 - Co-chair, Faculty of Social Sciences and Law PGR Annual Conference, [University of Bristol](https://www.bristol.ac.uk/), 2024
 - PhD Student Representative, [School of Education, University of Bristol](https://www.bristol.ac.uk/education/)
 
-
-
 ## Professional Affiliations
 
 - [British Association for Applied Linguistics](https://www.baal.org.uk/)
 - [British Educational Research Association](https://www.bera.ac.uk/)
 - [European Association of Technology Enhanced Learning](https://ea-tel.eu/)
 - [Computer Assisted Language Instruction Consortium](https://www.calico.org/) (CALICO)
-
-
 
 ### Journal Editor
 
