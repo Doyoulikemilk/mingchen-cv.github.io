@@ -2,7 +2,7 @@
 layout: default
 title: "CHEN Ming (Eric) | Academic CV"
 description: "Academic CV for CHEN Ming (Eric), PhD researcher in education, digital technologies, language learning, virtual reality, and AI-assisted learning."
-name: "CHEN Ming (Eric)"
+full_name: "CHEN Ming (Eric)"
 role: "PhD Researcher in Education"
 affiliation: "School of Education, University of Bristol"
 photo: "/assets/profile.jpg"
@@ -25,6 +25,16 @@ Thesis: Investigating the impact of virtual reality digital content creation on 
 **MA in Digital Technologies, Communication and Education**, [The University of Manchester](https://www.manchester.ac.uk/), United Kingdom  
 2020-2022  
 Dissertation research examined students' online learning experiences during the COVID-19 pandemic.
+
+
+
+## News
+
+- I was awarded...
+
+## Awards
+
+- Best Poster, [BAAL Vocabulary SIG](https://vocabularysig.wordpress.com/) 2026, Bangor
 
 ## Publications and Manuscripts {#publications}
 
@@ -62,6 +72,8 @@ For the most current publication record, please visit my [Google Scholar profile
 
 ## Academic Service and Leadership {#service}
 
+
+
 ### Professional Engagement
 
 - Social Media Communicator, [AERA Constructivist Theory, Research and Practice SIG](https://www.aera.net/SIG025/Constructivist-Theory-Research-and-Practice)
@@ -73,6 +85,17 @@ For the most current publication record, please visit my [Google Scholar profile
 - Educational Technology Panel Coordinator, [Cambridge China Education Forum](https://www.cambridgechina.org/), [University of Cambridge](https://www.cam.ac.uk/), 2024
 - Co-chair, Faculty of Social Sciences and Law PGR Annual Conference, [University of Bristol](https://www.bristol.ac.uk/), 2024
 - PhD Student Representative, [School of Education, University of Bristol](https://www.bristol.ac.uk/education/)
+
+
+
+## Professional Affiliations
+
+- [British Association for Applied Linguistics](https://www.baal.org.uk/)
+- [British Educational Research Association](https://www.bera.ac.uk/)
+- [European Association of Technology Enhanced Learning](https://ea-tel.eu/)
+- [Computer Assisted Language Instruction Consortium](https://www.calico.org/) (CALICO)
+
+
 
 ### Journal Editor
 
