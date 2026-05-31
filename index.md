@@ -3,14 +3,12 @@ layout: default
 title: "CHEN Ming (Eric) | Academic CV"
 description: "Academic CV for CHEN Ming (Eric), PhD researcher in education, digital technologies, language learning, virtual reality, and AI-assisted learning."
 full_name: "CHEN Ming (Eric)"
-role: "PhD Researcher in Education"
-affiliation: "School of Education, University of Bristol"
 photo: "/assets/profile.jpg"
 email: "Ming.Chen@bristol.ac.uk"
 google_scholar: "https://scholar.google.com/citations?user=bhmuN8YAAAAJ&hl=en"
 orcid: "https://orcid.org/0000-0003-4099-1606"
 researchgate: "https://www.researchgate.net/profile/Ming-Chen-174/research?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjoiaG9tZSJ9fQ"
-summary: "I am a PhD researcher at the School of Education, University of Bristol. My research focuses on digital technologies in language education, with particular interests in virtual reality, EFL vocabulary learning, learner engagement, and AI-assisted language learning."
+welcome: "Hi 😃 welcome to my website! I am interested in Technology-enhanced language learning, Computer-supported collaborative learning, AI-assisted learning, Innovative pedagogical designs"
 ---
 
 ## Education

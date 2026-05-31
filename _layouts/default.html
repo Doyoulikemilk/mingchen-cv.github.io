@@ -29,10 +29,7 @@
         </div>
 
         <div class="hero-content">
-          <p class="eyebrow">{{ page.role }}</p>
           <h1>{{ page.full_name }}</h1>
-          <p class="affiliation">{{ page.affiliation }}</p>
-          <p class="summary">{{ page.summary }}</p>
 
           <nav class="profile-links" aria-label="Profile links">
             <a href="mailto:{{ page.email }}" aria-label="Email">
@@ -52,6 +49,8 @@
               <span>ResearchGate</span>
             </a>
           </nav>
+
+          <p class="welcome">{{ page.welcome }}</p>
         </div>
       </section>
 
