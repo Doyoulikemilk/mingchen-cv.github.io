@@ -8,7 +8,7 @@ email: "Ming.Chen@bristol.ac.uk"
 google_scholar: "https://scholar.google.com/citations?user=bhmuN8YAAAAJ&hl=en"
 orcid: "https://orcid.org/0000-0003-4099-1606"
 researchgate: "https://www.researchgate.net/profile/Ming-Chen-174/research?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjoiaG9tZSJ9fQ"
-welcome: "Hi 😃 welcome to my website! I am interested in Technology-enhanced language learning, Computer-supported collaborative learning, AI-assisted learning, Innovative pedagogical designs"
+welcome: "Hi 😃 welcome! I am interested in Technology-enhanced language learning, Computer-supported collaborative learning, AI-assisted learning, Innovative pedagogical designs"
 ---
 
 ## Education
@@ -46,12 +46,12 @@ For the most current publication record, please visit my [Google Scholar profile
 
 ## Conference Presentations
 
-- Presented at the [British Educational Research Association Teacher Education and Development SIG](https://www.bera.ac.uk/group/teacher-education-and-development) Conference, 2026
+- Presented at the [British Educational Research Association Teacher Network Conference](https://www.bera.ac.uk/event/research-making-a-difference-in-the-classroom-2026) Conference, 2026
 - Presented at the [British Educational Research Association Annual Conference](https://www.bera.ac.uk/conference/bera-conference-2026), 2026
-- Presented at the [British Applied Linguistics Association Vocabulary SIG](https://vocabularysig.wordpress.com/), 2026
+- Presented at the [British Applied Linguistics Association Vocabulary SIG](https://baalvocabsig.wordpress.com/conferences/annual-conference-of-the-baal-vocab-studies-sig-2026), 2026
 - Presented at the [British Applied Linguistics Association Annual Conference](https://www.baal.org.uk/), 2026
-- Presented at the [Cambridge China Education Forum](https://www.cambridgechina.org/), 2024 and 2025
-- Presented at the [Association for Learning Technology Annual Conference](https://alt.ac.uk/alt-annual-conference/), 2024
+- Presented at the [Cambridge China Education Forum](https://www.cambridgecef.net/), 2024 and 2025
+- Presented at the [Association for Learning Technology Annual Conference](https://altc.alt.ac.uk/2024/), 2024
 
 ## Selected Funding and Grants {#funding}
 
@@ -68,11 +68,11 @@ For the most current publication record, please visit my [Google Scholar profile
 - Social Media Communicator, [AERA Constructivist Theory, Research and Practice SIG](https://www.aera.net/SIG025/Constructivist-Theory-Research-and-Practice)
 - Co-chair, Global Education Innovation Forum, Manchester, 2026
 - PhD Development Lead, Global PhD in Education Network, 2026-present
-- Operations Division Coordinator, [Cambridge China Education Forum](https://www.cambridgechina.org/), [University of Cambridge](https://www.cam.ac.uk/), 2026
-- Lead, Early Career Researcher Forum, [Cambridge China Education Forum](https://www.cambridgechina.org/), [University of Cambridge](https://www.cam.ac.uk/), 2025
-- Language and Literature Panel Coordinator, [Cambridge China Education Forum](https://www.cambridgechina.org/), [University of Cambridge](https://www.cam.ac.uk/), 2025
-- Educational Technology Panel Coordinator, [Cambridge China Education Forum](https://www.cambridgechina.org/), [University of Cambridge](https://www.cam.ac.uk/), 2024
-- Co-chair, Faculty of Social Sciences and Law PGR Annual Conference, [University of Bristol](https://www.bristol.ac.uk/), 2024
+- Operations Division Coordinator, [Cambridge China Education Forum](https://www.cambridgecef.net/), [University of Cambridge](https://www.cam.ac.uk/), 2026
+- Lead, Early Career Researcher Forum, [Cambridge China Education Forum](https://www.cambridgecef.net/), [University of Cambridge](https://www.cam.ac.uk/), 2025
+- Language and Literature Panel Coordinator, [Cambridge China Education Forum](https://www.cambridgecef.net/), [University of Cambridge](https://www.cam.ac.uk/), 2025
+- Educational Technology Panel Coordinator, [Cambridge China Education Forum](https://www.cambridgecef.net/), [University of Cambridge](https://www.cam.ac.uk/), 2024
+- Co-chair, Faculty of Social Sciences and Law PGR Annual Conference, [University of Bristol](https://fsslpgrannualconference.blogs.bristol.ac.uk/), 2024
 - PhD Student Representative, [School of Education, University of Bristol](https://www.bristol.ac.uk/education/)
 
 ## Professional Affiliations
